@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bank-Frontend/static/css/main.97d93d03.css",
+    "main.js": "/Bank-Frontend/static/js/main.59385536.js",
+    "static/js/787.e7b59482.chunk.js": "/Bank-Frontend/static/js/787.e7b59482.chunk.js",
+    "index.html": "/Bank-Frontend/index.html",
+    "main.97d93d03.css.map": "/Bank-Frontend/static/css/main.97d93d03.css.map",
+    "main.59385536.js.map": "/Bank-Frontend/static/js/main.59385536.js.map",
+    "787.e7b59482.chunk.js.map": "/Bank-Frontend/static/js/787.e7b59482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d93d03.css",
+    "static/js/main.59385536.js"
+  ]
+}
